@@ -12,6 +12,14 @@ public class Test {
         String s="word";
         System.out.println(s.substring(4,4).length());
 
+
+
+
+        System.out.println(s.substring(4,4).length());
+        System.out.println(s.substring(4,4).length());
+        System.out.println(s.substring(4,4).length());
+
+
     }
 }
 
